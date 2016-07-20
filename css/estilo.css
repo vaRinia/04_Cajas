@@ -1,0 +1,31 @@
+#afuera {
+	background-color: #7B9D12;
+	padding: 20px 60px 30.5px 120px;
+
+}
+
+
+#medio {
+	background-color: red;
+	padding: 20px 10px 20px 10px;
+
+}
+
+
+#dentro {
+	background-color: blue;
+	padding: 40px 20px 70px 100px;
+
+	
+}
+
+
+p{
+	
+	font-size: 30px;
+	border: red dashed 2px;
+	background-color: white;
+	margin: 40px 20px 70px 100px;
+	text-align: center;
+
+}
